@@ -1,7 +1,7 @@
 
 
 Variable declarations and console outputs
-var name = "Ravi bharathi"
+var name = "harish"
 console.log("Using var:", name)
 let age = 18
 console.log("Using let:", age)
